@@ -12,7 +12,7 @@ nav{
   	padding: 0;
   	text-transform: uppercase;
   	letter-spacing: 1px;
-  	font-color: #FFFFFF;
+  	color: #FFFFFF;
 }
 
 nav li a:hover{
