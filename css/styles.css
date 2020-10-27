@@ -30,7 +30,9 @@ nav ul {
   	text-decoration: none;
 }
 
-
+.portrait{
+	display: inline-block;
+}
 
 header,footer{
 	background: #85C1E9;
@@ -44,6 +46,7 @@ header{
 
 footer{
 	clear: both;
+	display: none;
 }
 
 body{
@@ -52,3 +55,7 @@ body{
 	margin: 4%;
 }
 
+.resume{
+  	display: block;
+  	margin: 0 auto;	
+}
