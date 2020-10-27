@@ -1,3 +1,14 @@
+body{
+	background: #D6EAF8;
+	font-size: 150%;
+	margin: 4%;
+}
+
+body, nav{
+  margin: 0%;
+  padding: 0;
+}
+
 nav{
 	background-color: #154360;
  	position: fixed;
@@ -14,15 +25,14 @@ nav li a:hover{
   color: white;
 }
 
-
 nav ul {
   	margin: 0 auto;
   	text-align: center;
-  	padding: 30px;
+  	padding: 20px;
 }
  nav ul li{
- 	display: inline-block;
-  	margin: 0 15px;  /* 0 top and bottom, 15 left and right */
+ 	  display: inline-block;
+  	margin: 0 25px;  /* 0 top and bottom, 15 left and right */
   	padding: 0;
   	text-transform: uppercase;
   	letter-spacing: 1px;
@@ -46,16 +56,17 @@ header{
 
 footer{
 	clear: both;
-	display: none;
+  text-align: center;
 }
 
-body{
-	background: #D6EAF8;
-	font-size: 150%;
-	margin: 4%;
+.portrait{
+  display: inline-block;
 }
-
 .resume{
   	display: block;
-  	margin: 0 auto;	
+  	margin: 0 auto;
+}
+
+.body{
+  margin:0 4%;
 }
