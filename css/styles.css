@@ -41,7 +41,7 @@ nav ul {
 }
 
 .portrait{
-	display: inline-block;
+	display: block;
 }
 
 header,footer{
