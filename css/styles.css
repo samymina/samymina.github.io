@@ -33,6 +33,7 @@ header,footer{
 header{
 	text-align: center;
 	padding: 15px;
+	display: block;
 }
 
 footer{
