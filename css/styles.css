@@ -9,10 +9,16 @@ nav li a:hover{
 	text-decoration: underline;
 }
 
+.nav_link{
+  text-decoration: none;
+  color: white;
+}
+
+
 nav ul {
-  margin: 0 auto;
-  text-align: center;
-  padding: 30px;
+  	margin: 0 auto;
+  	text-align: center;
+  	padding: 30px;
 }
  nav ul li{
  	display: inline-block;
