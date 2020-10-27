@@ -13,6 +13,7 @@ nav{
   	text-transform: uppercase;
   	letter-spacing: 1px;
   	color: #FFFFFF;
+  	text-decoration: none;
 }
 
 nav li a:hover{
